@@ -16,6 +16,8 @@ yarn start
 
 The sheets api needs some credentials to run, please get them on the link above and paste the file `credentials.json` on the root folder of this repo, then run the `googleSheetsSetup.js` and login with your credentials
 
+This procress will create the file `token.json` which is necesary to use the Sheets API after wards you would be ready to run the app correctly.
+
 ## For development
 
 ```bash
